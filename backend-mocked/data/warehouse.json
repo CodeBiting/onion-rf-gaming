@@ -17,8 +17,8 @@
       "typeId": 2,
       "placeTypeCode": "Warehouse",
       "x": 0,
-      "y": 1,
-      "z": 1,
+      "y": 0,
+      "z": 0,
       "subtypeId": "NULL",
       "allowStock": 1,
       "parentId": 1
@@ -28,8 +28,8 @@
       "code": "A",
       "typeId": 5,
       "placeTypeCode": "Shelf",
-      "x": 0,
-      "y": 1,
+      "x": 1,
+      "y": 0,
       "z": 1,
       "subtypeId": "NULL",
       "allowStock": 1,
@@ -40,9 +40,9 @@
       "code": "B",
       "typeId": 5,
       "placeTypeCode": "Shelf",
-      "x": 0,
-      "y": 1,
-      "z": 1,
+      "x": 1,
+      "y": 0,
+      "z": 9,
       "subtypeId": "NULL",
       "allowStock": 1,
       "parentId": 1002
@@ -52,9 +52,9 @@
       "code": "C",
       "typeId": 5,
       "placeTypeCode": "Shelf",
-      "x": 0,
-      "y": 1,
-      "z": 1,
+      "x": 1,
+      "y": 0,
+      "z": 9,
       "subtypeId": "NULL",
       "allowStock": 1,
       "parentId": 1002
@@ -1746,7 +1746,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1758,7 +1758,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1770,7 +1770,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1782,7 +1782,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1794,7 +1794,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1806,7 +1806,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1818,7 +1818,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1830,7 +1830,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1842,7 +1842,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1854,7 +1854,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1866,7 +1866,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1878,7 +1878,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1890,7 +1890,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1902,7 +1902,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1914,7 +1914,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1926,7 +1926,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1938,7 +1938,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1950,7 +1950,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1962,7 +1962,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1974,7 +1974,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1986,7 +1986,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -1998,7 +1998,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2010,7 +2010,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2022,7 +2022,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2034,7 +2034,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2046,7 +2046,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2058,7 +2058,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2070,7 +2070,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2082,7 +2082,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2094,7 +2094,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2106,7 +2106,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2118,7 +2118,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 0,
-      "z": 1,
+      "z": 5,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1278
@@ -2130,7 +2130,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2142,7 +2142,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2154,7 +2154,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2166,7 +2166,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2178,7 +2178,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2190,7 +2190,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2202,7 +2202,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2214,7 +2214,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2226,7 +2226,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2238,7 +2238,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2250,7 +2250,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2262,7 +2262,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2274,7 +2274,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2286,7 +2286,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2298,7 +2298,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2310,7 +2310,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2322,7 +2322,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2334,7 +2334,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2346,7 +2346,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2358,7 +2358,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2370,7 +2370,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2382,7 +2382,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2394,7 +2394,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2406,7 +2406,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2418,7 +2418,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2430,7 +2430,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2442,7 +2442,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2454,7 +2454,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2466,7 +2466,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2478,7 +2478,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2490,7 +2490,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2502,7 +2502,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 1,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2514,7 +2514,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2526,7 +2526,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2538,7 +2538,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2550,7 +2550,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2562,7 +2562,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2574,7 +2574,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2586,7 +2586,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2598,7 +2598,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2610,7 +2610,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2622,7 +2622,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2634,7 +2634,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2646,7 +2646,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2658,7 +2658,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2670,7 +2670,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2682,7 +2682,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2694,7 +2694,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2706,7 +2706,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2718,7 +2718,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2730,7 +2730,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2742,7 +2742,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2754,7 +2754,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2766,7 +2766,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2778,7 +2778,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2790,7 +2790,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2802,7 +2802,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2814,7 +2814,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2826,7 +2826,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2838,7 +2838,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2850,7 +2850,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2862,7 +2862,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2874,7 +2874,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2886,7 +2886,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 2,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2898,7 +2898,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2910,7 +2910,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2922,7 +2922,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2934,7 +2934,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2946,7 +2946,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2958,7 +2958,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2970,7 +2970,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2982,7 +2982,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -2994,7 +2994,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3006,7 +3006,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3018,7 +3018,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3030,7 +3030,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3042,7 +3042,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3054,7 +3054,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3066,7 +3066,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3078,7 +3078,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3090,7 +3090,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3102,7 +3102,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3114,7 +3114,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3126,7 +3126,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3138,7 +3138,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3150,7 +3150,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3162,7 +3162,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3174,7 +3174,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3186,7 +3186,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3198,7 +3198,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3210,7 +3210,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3222,7 +3222,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3234,7 +3234,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3246,7 +3246,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3258,7 +3258,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3270,7 +3270,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 3,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3282,7 +3282,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3294,7 +3294,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3306,7 +3306,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3318,7 +3318,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3330,7 +3330,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3342,7 +3342,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3354,7 +3354,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3366,7 +3366,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3378,7 +3378,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3390,7 +3390,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3402,7 +3402,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3414,7 +3414,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3426,7 +3426,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3438,7 +3438,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3450,7 +3450,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3462,7 +3462,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3474,7 +3474,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3486,7 +3486,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3498,7 +3498,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3510,7 +3510,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3522,7 +3522,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3534,7 +3534,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3546,7 +3546,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3558,7 +3558,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3570,7 +3570,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3582,7 +3582,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3594,7 +3594,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3606,7 +3606,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3618,7 +3618,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3630,7 +3630,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3642,7 +3642,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3654,7 +3654,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 4,
-      "z": 1,
+      "z": 5,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1278
@@ -3666,7 +3666,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3678,7 +3678,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3690,7 +3690,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3702,7 +3702,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3714,7 +3714,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3726,7 +3726,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3738,7 +3738,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3750,7 +3750,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3762,7 +3762,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3774,7 +3774,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3786,7 +3786,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3798,7 +3798,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3810,7 +3810,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3822,7 +3822,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3834,7 +3834,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3846,7 +3846,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3858,7 +3858,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3870,7 +3870,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3882,7 +3882,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3894,7 +3894,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3906,7 +3906,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3918,7 +3918,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3930,7 +3930,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3942,7 +3942,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3954,7 +3954,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3966,7 +3966,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3978,7 +3978,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -3990,7 +3990,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4002,7 +4002,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4014,7 +4014,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4026,7 +4026,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4038,7 +4038,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4050,7 +4050,7 @@
       "placeTypeCode": "Location",
       "x": 33,
       "y": 0,
-      "z": 1,
+      "z": 9,
       "subtypeId": 3,
       "allowStock": 1,
       "parentId": 1439
@@ -4062,7 +4062,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4074,7 +4074,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4086,7 +4086,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4098,7 +4098,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4110,7 +4110,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4122,7 +4122,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4134,7 +4134,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4146,7 +4146,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4158,7 +4158,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4170,7 +4170,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4182,7 +4182,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4194,7 +4194,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4206,7 +4206,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4218,7 +4218,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4230,7 +4230,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4242,7 +4242,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4254,7 +4254,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4266,7 +4266,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4278,7 +4278,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4290,7 +4290,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4302,7 +4302,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4314,7 +4314,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4326,7 +4326,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4338,7 +4338,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4350,7 +4350,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4362,7 +4362,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4374,7 +4374,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4386,7 +4386,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4398,7 +4398,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4410,7 +4410,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4422,7 +4422,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4434,7 +4434,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4446,7 +4446,7 @@
       "placeTypeCode": "Location",
       "x": 33,
       "y": 1,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4458,7 +4458,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4470,7 +4470,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4482,7 +4482,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4494,7 +4494,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4506,7 +4506,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4518,7 +4518,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4530,7 +4530,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4542,7 +4542,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4554,7 +4554,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4566,7 +4566,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4578,7 +4578,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4590,7 +4590,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4602,7 +4602,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4614,7 +4614,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4626,7 +4626,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4638,7 +4638,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4650,7 +4650,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4662,7 +4662,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4674,7 +4674,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4686,7 +4686,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4698,7 +4698,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4710,7 +4710,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4722,7 +4722,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4734,7 +4734,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4746,7 +4746,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4758,7 +4758,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4770,7 +4770,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4782,7 +4782,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4794,7 +4794,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4806,7 +4806,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4818,7 +4818,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4830,7 +4830,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4842,7 +4842,7 @@
       "placeTypeCode": "Location",
       "x": 33,
       "y": 2,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4854,7 +4854,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4866,7 +4866,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4878,7 +4878,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4890,7 +4890,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4902,7 +4902,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4914,7 +4914,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4926,7 +4926,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4938,7 +4938,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4950,7 +4950,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4962,7 +4962,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4974,7 +4974,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4986,7 +4986,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -4998,7 +4998,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5010,7 +5010,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5022,7 +5022,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5034,7 +5034,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5046,7 +5046,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5058,7 +5058,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5070,7 +5070,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5082,7 +5082,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5094,7 +5094,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5106,7 +5106,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5118,7 +5118,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5130,7 +5130,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5142,7 +5142,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5154,7 +5154,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5166,7 +5166,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5178,7 +5178,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5190,7 +5190,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5202,7 +5202,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5214,7 +5214,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5226,7 +5226,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5238,7 +5238,7 @@
       "placeTypeCode": "Location",
       "x": 33,
       "y": 3,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5250,7 +5250,7 @@
       "placeTypeCode": "Location",
       "x": 1,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5262,7 +5262,7 @@
       "placeTypeCode": "Location",
       "x": 2,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5274,7 +5274,7 @@
       "placeTypeCode": "Location",
       "x": 3,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5286,7 +5286,7 @@
       "placeTypeCode": "Location",
       "x": 4,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5298,7 +5298,7 @@
       "placeTypeCode": "Location",
       "x": 5,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5310,7 +5310,7 @@
       "placeTypeCode": "Location",
       "x": 6,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5322,7 +5322,7 @@
       "placeTypeCode": "Location",
       "x": 7,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5334,7 +5334,7 @@
       "placeTypeCode": "Location",
       "x": 8,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5346,7 +5346,7 @@
       "placeTypeCode": "Location",
       "x": 9,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5358,7 +5358,7 @@
       "placeTypeCode": "Location",
       "x": 10,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5370,7 +5370,7 @@
       "placeTypeCode": "Location",
       "x": 11,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5382,7 +5382,7 @@
       "placeTypeCode": "Location",
       "x": 12,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5394,7 +5394,7 @@
       "placeTypeCode": "Location",
       "x": 13,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5406,7 +5406,7 @@
       "placeTypeCode": "Location",
       "x": 14,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5418,7 +5418,7 @@
       "placeTypeCode": "Location",
       "x": 15,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5430,7 +5430,7 @@
       "placeTypeCode": "Location",
       "x": 16,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5442,7 +5442,7 @@
       "placeTypeCode": "Location",
       "x": 17,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5454,7 +5454,7 @@
       "placeTypeCode": "Location",
       "x": 18,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5466,7 +5466,7 @@
       "placeTypeCode": "Location",
       "x": 19,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5478,7 +5478,7 @@
       "placeTypeCode": "Location",
       "x": 20,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5490,7 +5490,7 @@
       "placeTypeCode": "Location",
       "x": 21,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5502,7 +5502,7 @@
       "placeTypeCode": "Location",
       "x": 22,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5514,7 +5514,7 @@
       "placeTypeCode": "Location",
       "x": 23,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5526,7 +5526,7 @@
       "placeTypeCode": "Location",
       "x": 24,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5538,7 +5538,7 @@
       "placeTypeCode": "Location",
       "x": 25,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5550,7 +5550,7 @@
       "placeTypeCode": "Location",
       "x": 26,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5562,7 +5562,7 @@
       "placeTypeCode": "Location",
       "x": 27,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5574,7 +5574,7 @@
       "placeTypeCode": "Location",
       "x": 28,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5586,7 +5586,7 @@
       "placeTypeCode": "Location",
       "x": 29,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5598,7 +5598,7 @@
       "placeTypeCode": "Location",
       "x": 30,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5610,7 +5610,7 @@
       "placeTypeCode": "Location",
       "x": 31,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5622,7 +5622,7 @@
       "placeTypeCode": "Location",
       "x": 32,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5634,7 +5634,7 @@
       "placeTypeCode": "Location",
       "x": 33,
       "y": 4,
-      "z": 1,
+      "z": 9,
       "subtypeId": 4,
       "allowStock": 1,
       "parentId": 1439
@@ -5645,8 +5645,8 @@
       "typeId": 8,
       "placeTypeCode": "Dock",
       "x": 0,
-      "y": 1,
-      "z": 1,
+      "y": 0,
+      "z": 15,
       "subtypeId": "NULL",
       "allowStock": 0,
       "parentId": 1002
