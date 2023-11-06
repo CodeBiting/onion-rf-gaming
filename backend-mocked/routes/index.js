@@ -6,18 +6,49 @@ const placesubtypes = require('../data/placesubtypes.json');
 const warehouse = require('../data/warehouse.json');
 const warehouse5x2 = require('../data/warehouse-5x2.json');
 const users = require('../data/users.json');
+const userimages = require('../data/userimages.json');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+/*
 router.get('/login', function(req, res, next) {
     let status = 200;
 
     res.status(status).json({
         status: status,
         message: 'Login successful'
+    });
+});
+*/
+
+/**
+ * Function to login a user and return a user object
+ * The request body should contain the following:
+ * - user
+ * - password
+ * The returned user object if the login suceeded should contain the following:
+ * - id
+ * - name
+ * - email
+ * - level
+ * - image
+ */
+router.post('/login', function(req, res, next) {
+    let status = 200;
+
+    res.status(status).json({
+        status: status,
+        message: 'Login successful',
+        user: {
+            id: 1,
+            name: 'John Doe',
+            email: 'johndoe@email.com',
+            level: 2,
+            image: userimages[0].image
+        } 
     });
 });
 
