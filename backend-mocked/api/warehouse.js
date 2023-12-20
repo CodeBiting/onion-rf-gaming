@@ -10,7 +10,7 @@ module.exports = {
      * Adds position (x, y, z), rotation (x, y, z) and scale (x, y, z) to each place.
      * Assumptions:
      * - the position is the center of the object
-     * - the rotation is set o 0,0,0
+     * - the rotation is set to 0,0,0
      * - the scale is the size of the object in milimeters 
      * 
      * | y
@@ -84,6 +84,29 @@ module.exports = {
 
         return warehouse;
     },
+
+    /**
+     * Function that gets all warehouse places and extracts column racks from it.
+     * Assumptions:
+     * - the position is the center of the object in unity coordinates (each unity is 1 meter)
+     * - the rotation is set to 0,0,0
+     * - the scale is the size of the object in meters (each unity is 1 meter)
+     * 
+     * | y
+     * |   / z
+     * |  /
+     * | /
+     * |/__________ x
+     * 
+     * @param {*} warehouse : list of places with an initial point (x, y, z) like (1, 0, 0).The point indicates order, not absolute position.
+     *                        For example, if the first place is (1, 0, 0), the second place is (2, 0, 0), this tells us that the second place is
+     *                        at the right of the first place. If the third place is (1, 1, 0), this tells us that the third place is up the first place.
+     * @param {*} placetypes : list of types of places (organization, buffer, dock, ...)
+     * @param {*} placesubtypes : list of subtypes that defines the width, height and depth of the place in milimeters
+     */
+    extractShelfsFromWarehouse: function(warehouse, placetypes, placesubtypes) {
+        return [];
+    }
 };
 
 /**
