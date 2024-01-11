@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "code": "Organization",
+    "typeId": 1,
+    "placeTypeCode": "Organization",
+    "x": "NULL",
+    "y": "NULL",
+    "z": "NULL",
+    "subtypeId": "NULL",
+    "allowStock": 0,
+    "parentId": "NULL",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "shelfs": [
+      { "y":1 },
+      { "y":2 },
+      { "y":3 }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "WH",
+    "typeId": 2,
+    "placeTypeCode": "Warehouse",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "subtypeId": "NULL",
+    "allowStock": 1,
+    "parentId": 1,
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "shelfs": [
+      { "y":1 },
+      { "y":2 },
+      { "y":3 }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "A",
+    "typeId": 5,
+    "placeTypeCode": "Shelf",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "subtypeId": "NULL",
+    "allowStock": 1,
+    "parentId": 2,
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "shelfs": [
+      { "y":1 },
+      { "y":2 },
+      { "y":3 }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "A 001",
+    "typeId": 6,
+    "placeTypeCode": "Location",
+    "x": 1,
+    "y": 0,
+    "z": 1,
+    "subtypeId": 4,
+    "allowStock": 1,
+    "parentId": 3,
+    "position": {
+      "x": 0,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.450,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "shelfs": [
+      { "y":-1.600 },
+      { "y":0 },
+      { "y":1.600 }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "A 002",
+    "typeId": 6,
+    "placeTypeCode": "Location",
+    "x": 2,
+    "y": 0,
+    "z": 1,
+    "subtypeId": 4,
+    "allowStock": 1,
+    "parentId": 3,
+    "position": {
+      "x": 1.350,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.450,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "shelfs": [
+      { "y":-1.600 },
+      { "y":0 },
+      { "y":1.600 }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "A 003",
+    "typeId": 6,
+    "placeTypeCode": "Location",
+    "x": 3,
+    "y": 0,
+    "z": 1,
+    "subtypeId": 4,
+    "allowStock": 1,
+    "parentId": 3,
+    "position": {
+      "x": 2.7,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.450,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "shelfs": [
+      { "y":-1.600 },
+      { "y":0 },
+      { "y":1.600 }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "A 004",
+    "typeId": 6,
+    "placeTypeCode": "Location",
+    "x": 4,
+    "y": 0,
+    "z": 1,
+    "subtypeId": 4,
+    "allowStock": 1,
+    "parentId": 3,
+    "position": {
+      "x": 4.05,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.450,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "shelfs": [
+      { "y":0 },
+      {"y": 1},
+      { "y":1.600 }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "A 005",
+    "typeId": 6,
+    "placeTypeCode": "Location",
+    "x": 5,
+    "y": 0,
+    "z": 1,
+    "subtypeId": 4,
+    "allowStock": 1,
+    "parentId": 3,
+    "position": {
+      "x": 5.4,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.450,
+      "y": 3.200,
+      "z": 0.650
+    },
+    "shelfs": [
+      {
+        "y": -1.6,
+        "caixes": [
+          {
+            "x": 0, "z": 0,
+            "scaleCaixes": {
+              "x": 1, "y": 1, "z": 1
+            }
+          },
+          {
+            "x": 0.4, "z": 0,
+            "scaleCaixes": {
+              "x": 1, "y": 1, "z": 1
+            }
+          }
+        ]
+      },
+      {
+        "y": 0.0
+      },
+      {
+        "y": 1.2,
+        "caixes": [
+          { "x": 0, "z": 0, "scaleCaixes": { "x": 1, "y": 0.153701, "z": 0.6 } }
+        ]
+      }
+    ]
+
+
+  }
+]

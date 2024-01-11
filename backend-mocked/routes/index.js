@@ -6,6 +6,7 @@ const placesubtypes = require('../data/placesubtypes.json');
 const warehouse = require('../data/warehouse.json');
 const warehouse5x2 = require('../data/warehouse-5x2.json');
 const warehouse5x2s = require('../data/warehouse-5x2-shelfs.json');
+const warehouseraul = require('../data/warehouse-raul.json');
 const users = require('../data/users.json');
 const userimages = require('../data/userimages.json');
 
@@ -110,6 +111,15 @@ router.get('/warehouse5x2s', function(req, res, next) {
         status: status,
         message: 'Login successful',
         warehouse5x2s
+    });
+});
+router.get('/warehouseraul', function(req, res, next) {
+    let status = 200;
+
+    res.status(status).json({
+        status: status,
+        message: 'Login successful',
+        warehouseraul
     });
 });
 

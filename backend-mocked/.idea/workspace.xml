@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff6afa43-0bbd-4a41-a6e8-d2785f9c321e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WpuDc7fqRG7xYKSsgpMyysaiq4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rauls/OneDrive/Documentos/GitHub/onion-rf-gaming/backend-mocked/data&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rauls\OneDrive\Documentos\GitHub\onion-rf-gaming\backend-mocked\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6afa43-0bbd-4a41-a6e8-d2785f9c321e" name="Changes" comment="" />
+      <created>1697441724027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697441724027</updated>
+      <workItem from="1697441725451" duration="2402000" />
+      <workItem from="1697527134610" duration="2160000" />
+      <workItem from="1697614013336" duration="1392000" />
+      <workItem from="1697699709029" duration="2269000" />
+      <workItem from="1697974371613" duration="640000" />
+      <workItem from="1698044809119" duration="2041000" />
+      <workItem from="1698131734756" duration="1257000" />
+      <workItem from="1698302364293" duration="368000" />
+      <workItem from="1698302750194" duration="2675000" />
+      <workItem from="1698391017071" duration="251000" />
+      <workItem from="1698737360727" duration="1381000" />
+      <workItem from="1698740667773" duration="693000" />
+      <workItem from="1698856061170" duration="848000" />
+      <workItem from="1698912824717" duration="1170000" />
+      <workItem from="1698925691484" duration="550000" />
+      <workItem from="1698999542267" duration="3000" />
+      <workItem from="1698999603847" duration="1043000" />
+      <workItem from="1699006183270" duration="1086000" />
+      <workItem from="1699259286463" duration="1015000" />
+      <workItem from="1699270797528" duration="1236000" />
+      <workItem from="1699310334520" duration="1161000" />
+      <workItem from="1699343249247" duration="2279000" />
+      <workItem from="1699390039640" duration="2069000" />
+      <workItem from="1699430013263" duration="1956000" />
+      <workItem from="1699565749299" duration="734000" />
+      <workItem from="1699601067170" duration="1048000" />
+      <workItem from="1699627629679" duration="58000" />
+      <workItem from="1699863549418" duration="601000" />
+      <workItem from="1699946885664" duration="2622000" />
+      <workItem from="1700034581061" duration="1196000" />
+      <workItem from="1700086919742" duration="842000" />
+      <workItem from="1700122377992" duration="379000" />
+      <workItem from="1700122776177" duration="1337000" />
+      <workItem from="1700169997410" duration="2273000" />
+      <workItem from="1700208297021" duration="1213000" />
+      <workItem from="1700465601156" duration="354000" />
+      <workItem from="1700555300395" duration="760000" />
+      <workItem from="1700813952164" duration="877000" />
+      <workItem from="1701157174499" duration="692000" />
+      <workItem from="1701157889117" duration="1510000" />
+      <workItem from="1701159716943" duration="1196000" />
+      <workItem from="1701207071408" duration="1867000" />
+      <workItem from="1701258070547" duration="610000" />
+      <workItem from="1701296111860" duration="1119000" />
+      <workItem from="1701330030624" duration="610000" />
+      <workItem from="1701347055409" duration="615000" />
+      <workItem from="1701347689448" duration="349000" />
+      <workItem from="1701417207133" duration="1733000" />
+      <workItem from="1701421613628" duration="1125000" />
+      <workItem from="1701677568620" duration="1193000" />
+      <workItem from="1701763681253" duration="1187000" />
+      <workItem from="1702282193850" duration="1467000" />
+      <workItem from="1702332123604" duration="736000" />
+      <workItem from="1702335221581" duration="699000" />
+      <workItem from="1702336246936" duration="146000" />
+      <workItem from="1702336407809" duration="128000" />
+      <workItem from="1702368696552" duration="2504000" />
+      <workItem from="1702377809093" duration="230000" />
+      <workItem from="1702378050297" duration="328000" />
+      <workItem from="1702453077240" duration="2352000" />
+      <workItem from="1702463833073" duration="443000" />
+      <workItem from="1702464293421" duration="612000" />
+      <workItem from="1702505224854" duration="1435000" />
+      <workItem from="1702540792066" duration="1488000" />
+      <workItem from="1702627672444" duration="1006000" />
+      <workItem from="1702971690097" duration="2783000" />
+      <workItem from="1703059742831" duration="1080000" />
+      <workItem from="1704701411387" duration="1601000" />
+      <workItem from="1704786967594" duration="1189000" />
+      <workItem from="1704834404744" duration="613000" />
+      <workItem from="1704873546493" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
