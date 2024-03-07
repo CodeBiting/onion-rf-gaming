@@ -1,7 +1,9 @@
 [
     {
       "id": 2,
+      "email": "system@gmail.com",
       "code": "system",
+      "password": "super1",
       "typeId": 3,
       "placeTypeCode": "User",
       "x": 0,
@@ -13,7 +15,9 @@
     },
     {
       "id": 1000,
+      "email": "boss@gmail.com",
       "code": "boss",
+      "password": "super2",
       "typeId": 3,
       "placeTypeCode": "User",
       "x": 0,
@@ -25,7 +29,9 @@
     },
     {
       "id": 1001,
+      "email": "picker1@gmail.com",
       "code": "picker1",
+      "password": "super3",
       "typeId": 3,
       "placeTypeCode": "User",
       "x": 0,
@@ -37,7 +43,9 @@
     },
     {
       "id": 4458,
+      "email": "picker2@gmail.com",
       "code": "picker2",
+      "password": "super4",
       "typeId": 3,
       "placeTypeCode": "User",
       "x": 0,

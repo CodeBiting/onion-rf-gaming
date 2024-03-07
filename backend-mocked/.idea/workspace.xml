@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff6afa43-0bbd-4a41-a6e8-d2785f9c321e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/warehouse-5x2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-5x2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/warehouse-raul.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-raul.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rauls/OneDrive/Documentos/GitHub/onion-rf-gaming/backend-mocked/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rauls/OneDrive/Documentos/GitHub/onion-rf-gaming/backend-mocked&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -47,6 +51,23 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rauls\OneDrive\Documentos\GitHub\onion-rf-gaming\backend-mocked\data" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -126,7 +147,47 @@
       <workItem from="1704701411387" duration="1601000" />
       <workItem from="1704786967594" duration="1189000" />
       <workItem from="1704834404744" duration="613000" />
-      <workItem from="1704873546493" duration="754000" />
+      <workItem from="1704873546493" duration="1944000" />
+      <workItem from="1704960881736" duration="598000" />
+      <workItem from="1705047046342" duration="839000" />
+      <workItem from="1705230320890" duration="597000" />
+      <workItem from="1705256527545" duration="510000" />
+      <workItem from="1705306432918" duration="597000" />
+      <workItem from="1705341424051" duration="601000" />
+      <workItem from="1705392793159" duration="615000" />
+      <workItem from="1705492886728" duration="573000" />
+      <workItem from="1705570144258" duration="1466000" />
+      <workItem from="1705652987873" duration="1169000" />
+      <workItem from="1705664282503" duration="168000" />
+      <workItem from="1705911040669" duration="598000" />
+      <workItem from="1705996615895" duration="1246000" />
+      <workItem from="1706084008069" duration="593000" />
+      <workItem from="1706177340445" duration="168000" />
+      <workItem from="1706177521384" duration="3916000" />
+      <workItem from="1706183837670" duration="541000" />
+      <workItem from="1706254027424" duration="520000" />
+      <workItem from="1706254574116" duration="1657000" />
+      <workItem from="1706257154821" duration="1740000" />
+      <workItem from="1706612869510" duration="397000" />
+      <workItem from="1706613282765" duration="685000" />
+      <workItem from="1706730391805" duration="593000" />
+      <workItem from="1706775134405" duration="590000" />
+      <workItem from="1706860887240" duration="621000" />
+      <workItem from="1707120869311" duration="1181000" />
+      <workItem from="1707738038168" duration="408000" />
+      <workItem from="1708623456433" duration="1243000" />
+      <workItem from="1708677344008" duration="883000" />
+      <workItem from="1708934033506" duration="612000" />
+      <workItem from="1709020519255" duration="617000" />
+      <workItem from="1709106468698" duration="3168000" />
+      <workItem from="1709193607730" duration="610000" />
+      <workItem from="1709242699622" duration="587000" />
+      <workItem from="1709280752418" duration="594000" />
+      <workItem from="1709540041156" duration="597000" />
+      <workItem from="1709577014701" duration="1972000" />
+      <workItem from="1709678824867" duration="595000" />
+      <workItem from="1709713011078" duration="597000" />
+      <workItem from="1709798916780" duration="617000" />
     </task>
     <servers />
   </component>
