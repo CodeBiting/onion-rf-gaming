@@ -104,8 +104,37 @@ module.exports = {
      * @param {*} placetypes : list of types of places (organization, buffer, dock, ...)
      * @param {*} placesubtypes : list of subtypes that defines the width, height and depth of the place in milimeters
      */
+    // extractShelfsFromWarehouse: function(warehouse, placetypes, placesubtypes) {
+    //     return [];
+    // }
+
     extractShelfsFromWarehouse: function(warehouse, placetypes, placesubtypes) {
-        return [];
+        const extractedShelfs = [];
+    
+        warehouse.forEach(place => {
+            if (place.typeId === PLACE_TYPE_SHELF && place.position) {
+                const shelfInfo = {
+                    "id": place.id,
+                    "code": place.code,
+                    "typeId": place.typeId,
+                    "placeTypeCode": place.placeTypeCode,
+                    "x": place.x,
+                    "y": place.y,
+                    "z": place.z,
+                    "subtypeId": place.subtypeId,
+                    "allowStock": place.allowStock,
+                    "parentId": place.parentId,
+                    "position": { "x": place.position.x, "y": place.position.y, "z": place.position.z },
+                    "rotation": { "x": 0, "y": 0, "z": 0 },
+                    "scale": { "x": 0, "y": 0, "z": 0 },
+                    "shelfs": []
+                };
+    
+                extractedShelfs.push(shelfInfo);
+            }
+        });
+    
+        return extractedShelfs;
     }
 };
 
