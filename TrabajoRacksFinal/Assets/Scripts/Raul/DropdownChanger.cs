@@ -15,7 +15,8 @@ public class DropdownChanger : MonoBehaviour
         // Obtén el índice de la opción seleccionada
         int selectedSceneIndex = sceneDropdown.value;
 
-        string[] sceneNames = { "Picking", "SampleScene", "Receive", "Putaway", "Expedition" };//nombres de las escenas
+        //string[] sceneNames = { "Picking", "SampleScene", "Receive", "Putaway", "Expedition" };//nombres de las escenas
+        string[] sceneNames = { "SampleScene" };//nombres de las escenas
 
         // Verifica que el índice esté dentro del rango de las escenas disponibles
         if (selectedSceneIndex >= 0 && selectedSceneIndex < sceneNames.Length)

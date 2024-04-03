@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ff6afa43-0bbd-4a41-a6e8-d2785f9c321e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-5x2-shelfs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/warehouse-5x2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-5x2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/warehouse-raul.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/warehouse-raul.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WpuDc7fqRG7xYKSsgpMyysaiq4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,7 +44,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/rauls/OneDrive/Documentos/GitHub/onion-rf-gaming/backend-mocked&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -188,6 +196,10 @@
       <workItem from="1709678824867" duration="595000" />
       <workItem from="1709713011078" duration="597000" />
       <workItem from="1709798916780" duration="617000" />
+      <workItem from="1711984798198" duration="2063000" />
+      <workItem from="1712007538535" duration="2253000" />
+      <workItem from="1712012398427" duration="1373000" />
+      <workItem from="1712042017860" duration="3574000" />
     </task>
     <servers />
   </component>

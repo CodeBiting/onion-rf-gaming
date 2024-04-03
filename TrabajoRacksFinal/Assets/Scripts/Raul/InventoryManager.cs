@@ -11,6 +11,7 @@ public class InventoryManager : MonoBehaviour
 
     public Transform ItemContent;
     public GameObject InventoryItem;
+    public GameObject prefabCajas;
 
     public Toggle EnableRemove;
 
@@ -24,11 +25,19 @@ public class InventoryManager : MonoBehaviour
     public void AddItem(Item item)
     {
         items.Add(item);
+
     }
-    public void RemoveItem(Item item) 
+
+    public void AssignPrefabToItem(Item item, GameObject prefab)
+    {
+        item.prefab = prefab;
+    }
+
+    public void RemoveItem(Item item)
     {
         items.Remove(item);
     }
+
     public void ListItems()
     {
         //Clean content before open.
@@ -47,6 +56,9 @@ public class InventoryManager : MonoBehaviour
             itemName.text = item.itemName;
             ItemIcon.sprite = item.icon;
 
+            Button itemButton = obj.GetComponent<Button>();
+            itemButton.onClick.AddListener(() => OnInventoryItemClick(item));
+
             if (EnableRemove.isOn)
             {
                 removeButton.gameObject.SetActive(true);
@@ -58,7 +70,7 @@ public class InventoryManager : MonoBehaviour
 
     public void EnableItemsRemove()
     {
-        if(EnableRemove.isOn)
+        if (EnableRemove.isOn)
         {
             foreach (Transform item in ItemContent)
             {
@@ -82,5 +94,19 @@ public class InventoryManager : MonoBehaviour
         {
             inventoryItems[i].AddItem(items[i]);
         }
+    }
+
+    public void OnInventoryItemClick(Item item)
+    {
+        // Instanciar una nueva caja (o prefabricado) aquí
+        GameObject newBox = Instantiate(prefabCajas); // Asumiendo que cada objeto Item tiene una referencia al prefab de la caja
+
+    }
+
+
+    public void AddItemToInventory(Item item, GameObject prefab)
+    {
+        items.Add(item);
+        AssignPrefabToItem(item, prefab);
     }
 }

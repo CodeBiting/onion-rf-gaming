@@ -16,3 +16,4 @@ MonoBehaviour:
   itemName: Box
   value: 10
   icon: {fileID: 21300000, guid: bc379d2135a782c45a8c4b863c7ec3ef, type: 3}
+  prefab: {fileID: 5437202813387727981, guid: e03f3e54d1854e248a6688ae379d34d0, type: 3}

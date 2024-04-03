@@ -4,7 +4,6 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.InputSystem;
-
 public class movimeintoJugador : MonoBehaviour
 {
     private enum MachineStates { IDLE, MOVIMENT, RECEIVE, PICKING, PUTAWAY, EXPEDITION };
@@ -29,8 +28,8 @@ public class movimeintoJugador : MonoBehaviour
     [Header("Character Values")]
     [SerializeField]
     private float m_Speed = 2;
-    [SerializeField]
-    private float m_JumpForce = 5f;
+    //[SerializeField]
+    //private float m_JumpForce = 5f;
     [SerializeField] private float interactDistance = 5f;
     [SerializeField] private GameEvent activarInventario;
 
@@ -149,11 +148,14 @@ public class movimeintoJugador : MonoBehaviour
     private void Start()
     {
         InitState(MachineStates.IDLE);
+       
     }
 
     void Update()
     {
         UpdateState();
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
     }
 
     private void OnDestroy()
@@ -166,7 +168,7 @@ public class movimeintoJugador : MonoBehaviour
         //make my character jump only when is on the ground
         if (Physics.Raycast(transform.position, Vector3.down, 1.1f))
         {
-            m_Rigidbody.AddForce(Vector3.up * m_JumpForce, ForceMode.Impulse);
+           // m_Rigidbody.AddForce(Vector3.up * m_JumpForce, ForceMode.Impulse);
         }
 
     }
@@ -176,7 +178,7 @@ public class movimeintoJugador : MonoBehaviour
         RaycastHit hit;
         if (Physics.Raycast(m_Camera.transform.position, m_Camera.transform.forward, out hit, 20f, m_ShootMask))
         {
-            Debug.Log($"He tocat {hit.collider.gameObject} a la posici {hit.point} amb normal {hit.normal}");
+            //Debug.Log($"He tocat {hit.collider.gameObject} a la posici {hit.point} amb normal {hit.normal}");
             Debug.DrawLine(m_Camera.transform.position, hit.point, Color.green, 2f);
         }
     }
