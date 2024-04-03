@@ -10,6 +10,7 @@ public class SceneInicio : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             SceneManager.LoadScene("Formulari");
+            //SceneManager.LoadScene("SampleScene");
         }
     }
 }

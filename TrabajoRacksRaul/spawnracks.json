@@ -1,0 +1,32 @@
+{
+	"id": 2,
+	"code": "WH",
+	"typeId": 2,
+	"placeTypeCode": "Warehouse",
+	"x": 0,
+	"y": 0,
+	"z": 0,
+	"subtypeId": "NULL",
+	"allowStock": 1,
+	"parentId": 1,
+	"position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"scale": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	shelfs: [
+		{ "y":1 },
+		{ "y":2 },
+		{ "y":3 },
+	]
+},
